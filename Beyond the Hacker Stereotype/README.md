@@ -15,30 +15,25 @@ Brian Myers (PhD, CISSP, CCSK) has worked in software for over thirty years for 
 - **Location**: Portland, Oregon
 
 ## Recording(s)
-Recording on [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) (beginning at 5:15:37)
+The talk is on [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) and begins at the 5:15:37 mark.
 
 ## Intended Audience
-This talk is intended for people who are considering a career in information security but not sure what kinds of jobs they might qualify for.
+This talk is intended for people who are considering a career in information security but not sure what they might qualify for.
 
 ## Key Takeaways
-- Information security includes many different kinds of roles, not just hackers--legal, compliance, training, etc.
-- The roles do not all require you to be a hacker or a programmer.
+- Information security includes many different kinds of roles beyond hacking such as legal, compliance, training, project management, and others.
+- You don't have to be a hacker or a programmer to find a role in cybersecurity.
 - The Federal government has created a framework called NICE documenting 58 different work roles in cybersecurity.
 - The NICE framework might help you find what you are looking for.
 
 ## Resources or References
-- [National Initiative for Cybersecurity Careers and Studies](niccs.cisa.gov)
+- [National Initiative for Cybersecurity Careers and Studies](niccs.cisa.gov) (The NICE framework is here.)
 - [CyberSeek](cyberseek.org)
 
+## Contact
+I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks at safetylight dot dev.
+
 ## License
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You are free to:
-- **Share** — Copy and redistribute the material in any medium or format.
-- **Adapt** — Remix, transform, and build upon the material.
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial** — You may not use the material for commercial purposes.
-
-For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
+A summary of the main license points is available [here](https://creativecommons.org/licenses/by-nc/4.0/).
