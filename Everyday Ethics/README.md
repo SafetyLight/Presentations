@@ -14,8 +14,6 @@ Brian Myers (PhD, CISSP, CCSK) has been Director of Information Security and the
 - **Date**: May 19, 2022
 - **Location**: Monmouth, Oregon
 
-<br/>
-
 ## Comments
 This talk was designed for a 400-level Computer Science class called Cybersecurity and Professional Practices. I was invited to speak on the topic of Professional Ethics and Practices. I was told the students were eager for a sense of what working in a company is really like.
 
