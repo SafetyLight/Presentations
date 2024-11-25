@@ -1,34 +1,45 @@
 # Title
-Beyond the Hacker Stereotype: Exploring Cybersecurity Careers You Didn’t Know Existed
+Kidnapping a Library: How Ransomware Taught the British Library to Follow Well-Known Best Practices
 
 ## Description
-Cybersecurity is often portrayed as a world dominated by hackers and pen testers—but there’s so much more to it than that. From legal advice and privacy compliance to product support and partner integration, the cybersecurity workforce offers a wide variety of roles suited to many different skills and interests.
+In 2023 one of the largest libraries in the world fell victim to a ransomware attack. Their online catalogs were down for months, and the cost of recovery exceeded eight million dollars. In March 2024 the Library posted a detailed 18-page account of what happened and what they learned from the experience. I studied the full report so you don’t have to.
 
-In this 20-minute talk, we’ll use the NIST NICE Framework to explore the range of cybersecurity opportunities. Whether you’re technical or not, cybersecurity has a place for you. Discover how you can contribute to cybersecurity and learn about the career paths that might lie ahead.
+If the analysis contains any surprises, it’s that there are no real surprises: the problems the British Library faced are common to many businesses, and the improvements the Library developed in response to the attack are reassuringly familiar best practices. We know how to reduce risk from ransomware.
+
+This 35-minute talk draws from the Library’s report to summarize the attack and explain how security controls such as network monitoring capabilities, multi-factor authentication, defined intrusion response processes, holistic risk management, and cyber-risk awareness at senior levels would have made a difference for the British Library-–and might in your company too.
 
 ## Speaker Bio
-Brian Myers (PhD, CISSP, CCSK) has worked in software for over thirty years for such companies as Borland, Netscape, and WebMD. He’s been a technical writer, a software developer, a product manager, a program manager, a development manager, a security architect, and a HIPAA security officer. He wrote three of the first books on Windows programming. He started the first application security team at WorkBoard, a hypergrowth Silicon Valley startup, and then joined Leviathan Security Group as a Senior Security Advisor. Currently Brian works independently under the name SafetyLight LLC helping software businesses establish effective and compliant information security programs. He’s also on the leadership committee for the Portland chapter of OWASP and has helped product the annual OWASP AppSec Days Pacific Northwest conference since its inception four years ago.
+Brian Myers (PhD, CISSP, CCSK) has been the Director of Information Security and the HIPAA Security Officer for a division of WebMD, Senior Application Security Architect for a hypergrowth Silicon Valley startup, and Senior Security Advisor for Leviathan Security Group. He currently works independently helping software businesses establish effective and compliant information security programs. Before entering the security field he was a programmer and a software development director. He worked at Borland and at Netscape and wrote three books on Windows programming.
 
-## Event
-- **Name**: BSidesPDX 2024
-- **Date**: 10/25/2024
+## Events
+- **Name**: Oregon Cyber Resilience Summit 2024
+- **Date**: October 8, 2024
+- **Location**: Eugene, Oregon
+
+<br/>
+
+- **Name** 2024 Pacific Northwest Cybersecurity Summit (sponsored by TAO)
+- **Date**: October 11, 2024
 - **Location**: Portland, Oregon
 
+## Comments
+The first version of this talk, presented at the Oregon Cyber Resilience summit, was about 25 minutes long. I subsequently delivered a shorter version (10 minutes) for the Technology Association of Oregon and a longer version (35 minutes) for a client as part of their security awareness program. The slides here on GitHub come from the longer version.
+
 ## Recording(s)
-The talk is on [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) and begins at the 5:15:37 mark.
+The Oregon Cyber Resilience Summit posted the talk on [YouTube](https://youtu.be/_atF1AWeumk).
 
 ## Intended Audience
-This talk is intended for people who are considering a career in information security but not sure what they might qualify for.
+This talk is for a general audience interested in understanding how a specific ransomware attack unfolded at a major cultural institution.
 
 ## Key Takeaways
-- Information security includes many different kinds of roles beyond hacking such as legal, compliance, training, project management, and others.
-- You don't have to be a hacker or a programmer to find a role in cybersecurity.
-- The Federal government has created a framework called NICE documenting 58 different work roles in cybersecurity.
-- The NICE framework might help you find what you are looking for.
+- Ransomware attacks can be catastrophic.
+- Even a company that already has a security program can fall victim to an attack.
+- Legacy systems can be a surprisingly devastating vulnerability.
+- To protect against ransomware, follow best practices from standards such as NIST 800-53.
 
 ## Resources or References
-- [National Initiative for Cybersecurity Careers and Studies](niccs.cisa.gov) (The NICE framework is here.)
-- [CyberSeek](cyberseek.org)
+- [Learning Lessons from the Cyber Attack](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf/) (Report from the British Library)
+- [Stop Ransomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide) (from CISA)
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks at safetylight dot dev.
