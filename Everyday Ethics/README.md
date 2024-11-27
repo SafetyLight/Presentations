@@ -1,4 +1,4 @@
-# Title
+# Presentation Title
 Everyday Ethics: Examples for Software Teams
 
 ## Description
@@ -6,8 +6,12 @@ This talk presents a series of simple situations drawn from my experience in the
 
 This is an interactive talk involving the audience in thinking of regulatory, policy-related, and ethical circumstances that might affect their assessment of each situation.
 
-## Speaker Bio
-Brian Myers (PhD, CISSP, CCSK) has been Director of Information Security and the HIPAA Security Officer for a division of WebMD, Senior Application Security Architect for a hypergrowth Silicon Valley startup, and Senior Security Advisor for Leviathan Security Group. He currently works independently helping software businesses establish effective and compliant information security programs. Before entering the security field he was a programmer and a software development director. He worked at Borland and at Netscape and wrote three books on Windows programming.
+## Intended Audience
+This talk is for people who are hoping to enter the workforce and curious to know how ethical concerns play out in real life.
+
+## Key Takeaways
+- Ethical decison-making is context-dependent.
+- Awareness of consequences matters.
 
 ## Events
 - **Name**: Western Oregon University Computer Science class
@@ -16,13 +20,6 @@ Brian Myers (PhD, CISSP, CCSK) has been Director of Information Security and the
 
 ## Comments
 This talk was designed for a 400-level Computer Science class called _Cybersecurity and Professional Practices_. I was invited to speak on the topic of Professional Ethics and Practices. I was told the students were eager for a sense of what working in a company is really like.
-
-## Intended Audience
-This talk is for people who are hoping to enter the workforce and curious to know how ethical concerns play out in real life.
-
-## Key Takeaways
-- Ethical decison-making is context-dependent.
-- Awareness of consequences matters.
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, email talks (at) safetylight (dot) dev.

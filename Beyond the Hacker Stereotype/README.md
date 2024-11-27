@@ -1,4 +1,4 @@
-# Title
+# Presentation Title
 Beyond the Hacker Stereotype: Exploring Cybersecurity Careers You Didn’t Know Existed
 
 ## Description
@@ -6,16 +6,11 @@ Cybersecurity is often portrayed as a world dominated by hackers and pen testers
 
 In this 20-minute talk, we’ll use the NIST NICE Framework to explore the range of cybersecurity opportunities. Whether you’re technical or not, cybersecurity has a place for you. Discover how you can contribute to cybersecurity and learn about the career paths that might lie ahead.
 
-## Speaker Bio
-Brian Myers (PhD, CISSP, CCSK) has worked in software for over thirty years for such companies as Borland, Netscape, and WebMD. He’s been a technical writer, a software developer, a product manager, a program manager, a development manager, a security architect, and a HIPAA security officer. He wrote three of the first books on Windows programming. He started the first application security team at WorkBoard, a hypergrowth Silicon Valley startup, and then joined Leviathan Security Group as a Senior Security Advisor. Currently Brian works independently under the name SafetyLight LLC helping software businesses establish effective and compliant information security programs. He’s also on the leadership committee for the Portland chapter of OWASP and has helped product the annual OWASP AppSec Days Pacific Northwest conference since its inception four years ago.
-
 ## Event
 - **Name**: BSidesPDX 2024
 - **Date**: 10/25/2024
 - **Location**: Portland, Oregon
-
-## Recording(s)
-The talk is on [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) and begins at the 5:15:37 mark.
+- **Recording**: [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) (the talk begins at the 5:15:37 mark.)
 
 ## Intended Audience
 This talk is intended for people who are considering a career in information security but not sure what they might qualify for.

@@ -1,11 +1,19 @@
-# Title
+# Presentation Title
 XXE for Dummies (or How to Make an XML Parser Send You Files)
 
 ## Description
 In 2017 OWASP added XML External Entity (XXE) Processing to its list of Top Ten Vulnerabilities. Do you know what XXE is, how it can be exploited, and how to defend against XXE attacks? Most of the standard examples use open source stacks. Have you seen XXE in .NET? This crystal-clear explanation and demo will give you all the facts.
 
-## Speaker Bio
-Brian Myers (PhD, CISSP, CCSK) has been the Director of Information Security and the HIPAA Security Officer for a division of WebMD, Senior Application Security Architect for a hypergrowth Silicon Valley startup, and Senior Security Advisor for Leviathan Security Group. He currently works independently helping software businesses establish effective and compliant information security programs. Before entering the security field, he was a programmer and a software development director. He worked at Borland and at Netscape and wrote three books on Windows programming.
+## Intended Audience
+This is a technical talk for software developers. Using simple, easily understood examples, the talk demonstrates how hackers exploit XML External Entities to exfiltrate files from servers.
+
+## Key Takeaways
+- XXE attacks are potentially very dangerous.
+- They result from exploiting an optional feature of XML that allows user-defined string expansions.
+- In most cases XXE vulnerabilities can be avoided as a simple matter of configuration.
+
+## Resources
+- [A Compendium of Known Techniques](https://www.nccgroup.com/media/bndihh0n/_xmldtdentityattacks.pdf) by security researcher Tim Morgan.
 
 ## Events
 - **Name**: BSides PDX
@@ -24,17 +32,6 @@ Brian Myers (PhD, CISSP, CCSK) has been the Director of Information Security and
 This presentation began as an internal developer training at the company where I worked. I subsequently polished it into a presentation for BSides. Several years later I gave an improved version of the talk for my local OWASP chapter. 
 
 The 2021 version of the OWASP Top Ten Web Application Security Risks dropped XXE as a distinct vulnerability. Instead, it was moved under the more general heading "Security Misconfiguration." "XXE vulnerabilities are less common now that more parsers default to safer configurations, but they persist. I saw it on a pen test as recently as November 2024.
-
-## Intended Audience
-This is a technical talk for software developers. Using simple, easily understood examples, the talk demonstrates how hackers exploit XML External Entities to exfiltrate files from servers.
-
-## Key Takeaways
-- XXE attacks are potentially very dangerous.
-- They result from exploiting an optional feature of XML that allows user-defined string expansions.
-- In most cases XXE vulnerabilities can be avoided as a simple matter of configuration.
-
-## Resources or References
-- [A Compendium of Known Techniques](https://www.nccgroup.com/media/bndihh0n/_xmldtdentityattacks.pdf) by security researcher Tim Morgan.
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
