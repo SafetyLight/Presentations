@@ -15,7 +15,7 @@ This talk targets a non-technical audience curious to understand better what a v
 This talk was accepted for the Oregon Cyber Resilience Summit in October of 2023, but life events intervened and I was unable to deliver it. It's still waiting for a chance to see the light of day...
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks at safetylight dot dev.
+I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at)safetylight (dot) dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
