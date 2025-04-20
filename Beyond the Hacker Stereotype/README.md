@@ -12,6 +12,10 @@ In this 25-minute talk, we’ll use the NIST NICE Framework to explore the range
 - **Location**: Portland, Oregon
 - **Recording**: [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) (the talk begins at the 5:15:37 mark.)
 
+- **Name**: BSides Seattle 2025
+- **Date**: 4/19/2025
+- **Location**: Redmond, Washington
+
 ## Intended Audience
 This talk is intended for people who are considering a career in information security but not sure what they might qualify for.
 
@@ -26,7 +30,7 @@ This talk is intended for people who are considering a career in information sec
 - [CyberSeek](cyberseek.org)
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at)safetylight (dot) dev.
+I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
