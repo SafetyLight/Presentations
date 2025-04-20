@@ -10,14 +10,16 @@ In this 25-minute talk, we’ll use the NIST NICE Framework to explore the range
 - **Name**: BSidesPDX 2024
 - **Date**: 10/25/2024
 - **Location**: Portland, Oregon
-- **Recording**: [YouTube](https://www.youtube.com/live/VI76DUQ4DHI?si=D_c1fR07oR-l5wUj&t=18937) (the talk begins at the 5:15:37 mark.)
+- **Recording**: [YouTube](https://www.youtube.com/watch?v=Mpk3zyB6qao)
+
+<br/>
 
 - **Name**: BSides Seattle 2025
 - **Date**: 4/19/2025
 - **Location**: Redmond, Washington
 
 ## Intended Audience
-This talk is intended for people who are considering a career in information security but not sure what they might qualify for.
+This talk is intended for people who are considering a new or different career in information security but are not sure what they might qualify for. 
 
 ## Key Takeaways
 - Information security includes many different kinds of roles beyond hacking such as legal, compliance, training, project management, and others.
