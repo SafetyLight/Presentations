@@ -4,11 +4,11 @@ Waking Up to AI: An Adventure in Governance
 ## Description
 AI capabilities are evolving much faster than most organizations' ability to govern them. This 90-minute session tells the story of *MindPath*, a fictional small SaaS company that slowly wakes up to the reality of AI in its tools, vendors, and workflows. With no policy and little awareness of AI risk, MindPath faces a client questionnaire, some shadow AI, and a scramble to respond.
 
-This is a journey many companies are on now:
-✅ Building an AI inventory
-✅ Updating risk registers and contracts
-✅ Dealing with vendor AI drift
-✅ Starting internal AI development
+This is a journey many companies are on now:<br/>
+✅ Building an AI inventory<br/>
+✅ Updating risk registers and contracts<br/>
+✅ Dealing with vendor AI drift<br/>
+✅ Starting internal AI development<br/>
 
 The talk offers a grounded, scenario-based look at how AI governance begins—not with polished frameworks, but with real constraints, messy processes, and partial answers. It’s designed to spark insight, discussion, and shared learning about the practical realities of AI risk and oversight.
 
