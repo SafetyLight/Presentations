@@ -29,6 +29,11 @@ The talk presents lightweight controls that a small company can realistically ap
 
 ## Comments
 
+This talk does describe specific governance controls suitable for a small or medium business coming to grips with AI. But if that were the only goal,
+it would be a much shorter talk. AI aside, it also gives a realistic view of how security programs evolve in small companies, and what they are able to do
+with the limited resources they have. It was an interesting counterpoint at the ISACA conference with other presentations that covered AI risks and
+governance goals more generally. 
+
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks[at]safetylight[dot]dev.
 
