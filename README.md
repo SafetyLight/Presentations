@@ -28,6 +28,9 @@ Guidance for small software teams with minimal security expertise and no budget 
 - **[Starting to Think Like a Hacker: Some Easy Ways to Break a Website](Starting%20to%20Think%20Like%20a%20Hacker/)**  
   A beginner-friendly introduction to what hackers actually do. Demonstrates exploiting a handful of common vulnerabilities using only a browser.
 
+- **[Waking Up to AI: An Adventure in Governance](Waking%20Up%20to%20AI)**  
+  A scenario-driven walkthrough of how a small SaaS company stumbles into AI risk and gradually builds practical governance in the absence of clear best practices.
+
 - **[What Goes Wrong? Common Security Problems in Web Applications](What%20Goes%20Wrong)**  
   Security awareness training for developers with practical code examples showcasing the OWASP Top Ten Web Security Risks.
 
