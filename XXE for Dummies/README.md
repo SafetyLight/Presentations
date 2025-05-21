@@ -31,7 +31,7 @@ This is a technical talk for software developers. Using simple, easily understoo
 ## Comments
 This presentation began as an internal developer training at the company where I worked. I subsequently polished it into a presentation for BSides. Several years later I gave an improved version of the talk for my local OWASP chapter. 
 
-The 2021 version of the OWASP Top Ten Web Application Security Risks dropped XXE as a distinct vulnerability. Instead, it was moved under the more general heading "Security Misconfiguration." "XXE vulnerabilities are less common now that more parsers default to safer configurations, but they persist. I saw it on a pen test as recently as November 2024.
+The 2021 version of the OWASP Top Ten Web Application Security Risks dropped XXE as a distinct vulnerability. Instead, it was moved under the more general heading "Security Misconfiguration." XXE vulnerabilities are less common now that more parsers default to safer configurations, but they persist. I saw it on a pen test as recently as November 2024.
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
