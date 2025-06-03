@@ -26,8 +26,14 @@ Participants will:
 - **Date**: March 2024
 - **Location**: on line
 
+- **Name**: Western Oregon University class of graduating Comp Sci seniors
+- **Date**: June 2025
+- **Location**: Monmouth, Oregon
+
 ## Comments
-I developed this talk for a client who wanted OWASP Top Ten training for their developers. 
+I developed this talk for a client who wanted OWASP Top Ten training for their developers. The first version was 
+intended for a company with an appsec background and whose product was written in PHP using Yii. The second version
+picked examples more appropriate for entry level developers.
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
