@@ -26,6 +26,8 @@ Participants will:
 - **Date**: March 2024
 - **Location**: on line
 
+<br>
+
 - **Name**: Western Oregon University class of graduating Comp Sci seniors
 - **Date**: June 2025
 - **Location**: Monmouth, Oregon
