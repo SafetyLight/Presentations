@@ -71,6 +71,7 @@ Here are all the links to resources mentioned in the talk (and a couple of extra
 - **OWASP**: [2025 Top 10 Risk & Migitations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
 
 ### Vendor & Contract Risks
+- **James Jewitt**: [From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem](https://arxiv.org/abs/2509.09873)
 - **Lexis Nexis**: [Artificial Intelligence Agreements Checklist](https://www.lexisnexis.com/community/insights/legal/practical-guidance-journal/b/pa/posts/artificial-intelligence-ai-agreements-checklist)
 - **Morgan Lewis**: [Contracting Pointers for Services Incorporating the Use of AI](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2023/07/contract-corner-contracting-pointers-for-services-incorporating-the-use-of-ai)
 - **OneTrust**: [Questions to Add to Existing Vendor Assessments](https://www.onetrust.com/resources/questions-to-add-to-existing-vendor-assessments-for-ai-checklist/)
