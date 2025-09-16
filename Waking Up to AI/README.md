@@ -75,6 +75,7 @@ Here are all the links to resources mentioned in the talk (and a couple of extra
 - **Lexis Nexis**: [Artificial Intelligence Agreements Checklist](https://www.lexisnexis.com/community/insights/legal/practical-guidance-journal/b/pa/posts/artificial-intelligence-ai-agreements-checklist)
 - **Morgan Lewis**: [Contracting Pointers for Services Incorporating the Use of AI](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2023/07/contract-corner-contracting-pointers-for-services-incorporating-the-use-of-ai)
 - **OneTrust**: [Questions to Add to Existing Vendor Assessments](https://www.onetrust.com/resources/questions-to-add-to-existing-vendor-assessments-for-ai-checklist/)
+- **Peter Henderson**: [The Mirage of Artificial Intelligence Terms of Use Restrictions](https://arxiv.org/abs/2412.07066)
 - **Stanford Law School Blogs**: [Navigating AI Vendor Contracts](https://law.stanford.edu/2025/03/21/navigating-ai-vendor-contracts-and-the-future-of-law-a-guide-for-legal-tech-innovators/)
 - **VenMinder**: [Artificial Intelligence Sample Vendor Questionnaire](https://www.venminder.com/library/artificial-intelligence-sample-vendor-questionnaire)
 
