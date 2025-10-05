@@ -12,6 +12,8 @@ This is a journey many companies are on now:<br/>
 
 The talk offers a grounded, scenario-based look at how AI governance begins—not with polished frameworks, but with real constraints, messy processes, and partial answers. It’s designed to spark insight, discussion, and shared learning about the practical realities of AI risk and oversight.
 
+I have two versions of this talk: a 75-minute presentation and a 2.5 hour workshop version with more material and more discussion.
+
 ## Intended Audience
 This talk is for people who are beginning to confront the practical realities of AI governance--especially in software development contexts where policies, practices, and responsibilities are still taking shape. 
 
@@ -23,6 +25,12 @@ Following one company's messy, in-progress approach creates a chance to discuss,
 The talk presents lightweight controls that a small company can realistically apply--imperfect, but practical.
 
 ## Events
+- **Name**: BSides Idaho Falls 2025
+- **Date**: September 2025
+- **Location**: Idaho Falls, Idaho
+
+<br/>
+
 - **Name**: ISACA Portland Spring Training 2025
 - **Date**: May 2025
 - **Location**: Wilsonville, Oregon
@@ -30,6 +38,8 @@ The talk presents lightweight controls that a small company can realistically ap
 ## Comments
 
 This talk describes specific governance controls suitable for a small or medium business coming to grips with AI, but if that were the only goal, it would be a much shorter talk. AI aside, it also gives a realistic view of how security programs evolve in small companies, and what they are able to do with the limited resources they have. Companies don’t publish their messy debates, partial fixes, and hard tradeoffs--but that’s where the most useful lessons often lie.
+
+For BSides Idaho Falls I expanded the talk into a workshop. I added a chapter in which MindPath deploys its first AI feature in Production for customers, and I added discussion points throughout the talk hoping to engage participants in evaluating the strengths and weaknesses of MindPath's choices along the way. This version covers more AI-specific risks and allows more scope for assessing the suitability of security controls for each risk.
 
 ## Contact
 I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks[at]safetylight[dot]dev.
