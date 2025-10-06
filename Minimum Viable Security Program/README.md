@@ -26,20 +26,17 @@ This talk targets a non-technical audience curious to understand better what a v
 Here are links to articles, surveys, and standards mentioned in the talk.
 
 ### Cyber Security in Small Businesses 
-- [CNBC – Main Street overconfidence: America’s small businesses aren’t worried about hacking](https://www.cnbc.com/2021/08/10/main-street-overconfidence-small-businesses-dont-worry-about-hacking.html
-)
-- [MasterCard – Too small to be ignored? Not anymore.](https://www.mastercard.com/us/en/news-and-trends/stories/2025/small-business-cybersecurity-study.html
-)
-- [​Microsoft – ​7 cybersecurity trends and tips for small and medium businesses to stay protected](https://www.microsoft.com/en-us/security/blog/2024/10/31/7-cybersecurity-trends-and-tips-for-small-and-medium-businesses-to-stay-protected
-)
+- [CNBC – Main Street overconfidence: America’s small businesses aren’t worried about hacking](https://www.cnbc.com/2021/08/10/main-street-overconfidence-small-businesses-dont-worry-about-hacking.html)
+- [MasterCard – Too small to be ignored? Not anymore.](https://www.mastercard.com/us/en/news-and-trends/stories/2025/small-business-cybersecurity-study.html)
+- [​Microsoft – ​7 cybersecurity trends and tips for small and medium businesses to stay protected](https://www.microsoft.com/en-us/security/blog/2024/10/31/7-cybersecurity-trends-and-tips-for-small-and-medium-businesses-to-stay-protected)
 - [Microsoft Security – Small and medium business (SMB) cyberattacks are frequent and costly](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/SMBCybersecurity-Report-Final.pdf)
 - [Verizon – 2025 Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/2025-dbir-data-breach-investigations-report.pdf)
 - [VikingCloud – 2025 SMB Threat Landscape Report](https://www.vikingcloud.com/resources/vikingclouds-2025-smb-threat-landscape-report-small--and-medium-sized-businesses-big-cybersecurity-risks)
 
 ### Security Guidelines for SMBs
 - [Australian Cyber Security Centre – Essential Eight](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight)
-- [CISA – Cyber Essentials](https://www.cisa.gov/resources-tools/resources/cyber-essentials)
 - [CIS – Critical Security Controls Implementation Group 1 (IG1)](https://www.cisecurity.org/controls/implementation-groups/ig1)
+- [CISA – Cyber Essentials](https://www.cisa.gov/resources-tools/resources/cyber-essentials)
 - [ENISA – Cybersecurity for SMEs: 12 Steps to Securing Your Business](https://www.enisa.europa.eu/publications/cybersecurity-guide-for-smes)
 - [FTC – Cybersecurity for Small Business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity)
 - [Government of Canada – Baseline Cyber Security Controls for Small and Medium Organizations](https://www.cyber.gc.ca/en/guidance/baseline-cyber-security-controls-small-and-medium-organizations)
@@ -64,7 +61,16 @@ Here are links to articles, surveys, and standards mentioned in the talk.
 - [Securing Wireless Networks](https://www.cisa.gov/news-events/news/securing-wireless-networks)
 
 ### Operations
+- [Logging and Protective Monitoring](https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring)
+- [Best Practices for Event Logging and Threat Detection](https://www.cyber.gov.au/sites/default/files/2024-08/best-practices-for-event-logging-and-threat-detection.pdf)
+- [CAIQ-Lite (Consensus Assessment Initiative Questionnaire)](https://cloudsecurityalliance.org/artifacts/ccm-lite-and-caiq-lite-v4)
+- [Information and Communications Technology Supply Chain Risk Management Task Force](https://www.cisa.gov/sites/default/files/2025-08/Operationalizing_the_Vendor_SCRM_Template_for_SMBs_2025_Final_508.pdf)
+- [Top Tips for Staff]()
 
+### Risk Assessment
+- Binary Risk Analysis \[[readme](https://github.com/SafetyLight/BinaryRisk)\] \[[app](https://safetylight.github.io/BinaryRisk/BinaryRisk.html)\]
+- [FAIR: A Framework for Revolutionizing Your Risk Analysis](https://www.cisecurity.org/insights/blog/fair-a-framework-for-revolutionizing-your-risk-analysis)
+- [Minimum Viable Risk Management Program](https://www.youtube.com/watch?v=9pmvwh8Rcyw)
 
 ## Events
 - **Name**: Oregon Cyber Resilience Summit 2025
