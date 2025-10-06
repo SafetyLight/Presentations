@@ -49,6 +49,20 @@ Here are links to articles, surveys, and standards mentioned in the talk.
 
 ### Safeguards
 
+- [How to Implement Single Sign-On](https://securitysenses.com/posts/how-implement-single-sign-sso-non-technical-guide)
+- [Office 365](https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/add-application-portal)
+- [Google Workspace](https://support.google.com/a/answer/12032922?hl=en&ref_topic=7579248&sjid=7516130390414350597-NC)
+- [Multi-factor Authentication for Your Corporate Online Services](https://www.ncsc.gov.uk/collection/mfa-for-your-corporate-online-services)
+- [Implementing Phishing-Resistant MFA](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf)
+- [Password Administration for System Owners](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach)
+- [Password Policy Recommendations for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/password-policy-recommendations)
+- [Device Security Guidance](https://www.ncsc.gov.uk/collection/device-security-guidance)
+- [Network Architectures](https://www.ncsc.gov.uk/collection/device-security-guidance/infrastructure/network-architectures)
+- [Modern Approaches to Network Access Security](https://www.cisa.gov/sites/default/files/2024-06/joint-guide-modern-approaches-to-secure-network-access-security-508c.pdf)
+- [Home Working: Preparing Your Organization](https://www.ncsc.gov.uk/guidance/home-working)
+- [Bring Your Own Device (BYOD)](https://www.ncsc.gov.uk/collection/device-security-guidance/bring-your-own-device)
+- [Securing Wireless Networks](https://www.cisa.gov/news-events/news/securing-wireless-networks)
+
 ### Operations
 
 
