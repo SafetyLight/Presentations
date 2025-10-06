@@ -66,6 +66,7 @@ Here are links to articles, surveys, and standards mentioned in the talk.
 - [CAIQ-Lite (Consensus Assessment Initiative Questionnaire)](https://cloudsecurityalliance.org/artifacts/ccm-lite-and-caiq-lite-v4)
 - [Information and Communications Technology Supply Chain Risk Management Task Force](https://www.cisa.gov/sites/default/files/2025-08/Operationalizing_the_Vendor_SCRM_Template_for_SMBs_2025_Final_508.pdf)
 - [Top Tips for Staff]()
+- [Hook Minute](https://www.hooksecurity.co/security-awareness-kit?#minute)
 
 ### Risk Assessment
 - Binary Risk Analysis \[[readme](https://github.com/SafetyLight/BinaryRisk)\] \[[app](https://safetylight.github.io/BinaryRisk/BinaryRisk.html)\]
