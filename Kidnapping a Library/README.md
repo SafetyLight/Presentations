@@ -22,6 +22,12 @@ This talk is for a general audience interested in understanding how a specific r
 - [Stop Ransomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide) (from CISA)
 
 ## Events
+- **Name** BSidesPDX 2025
+- **Date**: October 25, 2025
+- **Location**: Portland, Oregon
+
+<br/>
+
 - **Name**: Oregon Cyber Resilience Summit 2024
 - **Date**: October 8, 2024
 - **Location**: Eugene, Oregon
