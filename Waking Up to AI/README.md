@@ -42,7 +42,7 @@ This talk describes specific governance controls suitable for a small or medium 
 For BSides Idaho Falls I expanded the talk into a workshop. I added a chapter in which MindPath deploys its first AI feature in Production for customers, and I added discussion points throughout the talk hoping to engage participants in evaluating the strengths and weaknesses of MindPath's choices along the way. This version covers more AI-specific risks and allows more scope for assessing the suitability of security controls for each risk.
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks[at]safetylight[dot]dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit the [Creative Commons license page](https://creativecommons.org/licenses/by-nc/4.0/).
