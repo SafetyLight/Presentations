@@ -61,13 +61,13 @@ A summary of the main license points is available [here](https://creativecommons
 Here are all the links to resources mentioned in the talk (and a couple of extras as well.)
 
 ### AI Policies and Governance
-- **Drata**: [Policy and Plan Guidance](https://help.drata.com/en/collections/9892937-policy-plan-guidance)
+- **Drata**: [Policy and Plan Guidance](https://help.drata.com/en/collections/16397053-policy-guidance)
 - **Harmonic**: [AI Policy Generator](https://ai-policy-studio.com/)
 - **Fairnow**: [AI Governance Framework](https://fairnow.ai/free-ai-governance-framework/?utm_source=chatgpt.com)
 - **ISACA**: [Policy Template Toolkit](https://store.isaca.org/s/store#/store/browse/detail/a2S4w000008L3V9EAK)
 - **OECD AI Principles**: [OECD AI Principles overview](https://oecd.ai/en/ai-principles)
 - **SANS**: [Security Policy Project](https://www.sans.org/information-security-policy/)
-- **US Congress**: [Advancing American AI Act and Executive Order 14110](https://www.cio.gov/assets/resources/2024-Guidance-for-AI-Use-Case-Inventories.pdf?utm_source=chatgpt.com)
+- **US Congress**: [Advancing American AI Act and Executive Order 14110](https://www.cio.gov/assets/resources/2024-Guidance-for-AI-Use-Case-Inventories.pdf)
 - **World Economic Forum**: [Adopting AI Responsibily](https://www3.weforum.org/docs/WEF_Adopting_AI_Responsibly_Guidelines_for_Procurement_of_AI_Solutions_by_the_Private_Sector_2023.pdf)
 
 ### Shadow AI & Adoption
@@ -76,9 +76,8 @@ Here are all the links to resources mentioned in the talk (and a couple of extra
 - **KPMG**: [Trust, Attitudes, & Use of AI](https://kpmg.com/xx/en/our-insights/ai-and-technology/trust-attitudes-and-use-of-ai.html)
 - **McKinsey**: [The state of AI: How organizations are rewiring to capture value](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?stcr=9499CD6B84314043914372147ADF3E31&cid=other-eml-ttn-mip-mck&hlkid=14d702306f4045138360d6895fce3a02&hctky=15042671&hdpid=6005f897-086c-407d-bf54-67140245a7c5)
 - **Nudge**: [AI Adoption Curve](https://www.nudgesecurity.com/post/the-ai-adoption-curve-and-what-it-means-for-your-business)
-- **SoftwareAG**: [Chasing Shadows](https://newscenter.softwareag.com/en/news-stories/thought-leaders-stories/shadow-ai.html)
-[wayback](https://web.archive.org/web/20250326235020/https://newscenter.softwareag.com/en/news-stories/thought-leaders-stories/shadow-ai.html)
-- **SoftwareAG**: [Half of all employees are Shadow AI users](https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html) [wayback](https://web.archive.org/web/20241104103719/https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html)
+- **SoftwareAG**: [Chasing Shadows](https://web.archive.org/web/20250326235020/https://newscenter.softwareag.com/en/news-stories/thought-leaders-stories/shadow-ai.html) [The original link was removed. This one goes to the internet archives.]
+- **SoftwareAG**: [Half of all employees are Shadow AI users](https://web.archive.org/web/20241104103719/https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html) [The original link was removed. This one goes to the internet archives.]
 - **Upguard**: [Unmasking Shadow AI](https://www.upguard.com/blog/unmasking-shadow-ai)
 - **Verizon**: [State of Small Business Survey 2025](https://www.verizon.com/about/news/small-business-survey)
 
@@ -87,8 +86,8 @@ Here are all the links to resources mentioned in the talk (and a couple of extra
 - **FS-ISAC**: [Generative AI Risk Assessment Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf)
 - **National Cyber Security Centre (NCSC)**: [AI and Cyber Security: What You Need to Know](https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know)
 - **National Cyber Security Centre (NCSC)**: [Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf)
-- **NIST**: [AI 600-1](https://www.nist.gov/itl/ai-risk-management-framework)
 - **NIST**: [AI RMF 100-1](https://airc.nist.gov/airmf-resources/airmf/)
+- **NIST**: [AI RMF 600-1: Gen AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - **NIST**: [IR 8596: Framework Profile for Artificial Intelligence (Cyber AI Profile)](https://csrc.nist.gov/pubs/ir/8596/iprd)
 - **OWASP**: [2025 Top 10 Risk & Migitations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
 - **OWASP**: [AI Exchange: General Controls](https://owaspai.org/docs/1_general_controls/)
