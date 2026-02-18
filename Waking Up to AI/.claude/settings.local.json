@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "Bash(env:*)",
+      "Bash(printf:*)",
+      "Bash(git -C \"d:/GitHub/SafetyLight/Presentations\" credential fill)"
+    ]
+  }
+}
