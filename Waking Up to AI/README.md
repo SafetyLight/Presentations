@@ -25,6 +25,12 @@ Following one company's messy, in-progress approach creates a chance to discuss,
 The talk presents lightweight controls that a small company can realistically apply--imperfect, but practical.
 
 ## Events
+- **Name**: BSides Seattle 2026
+- **Date**: February 2026
+- **Location**: Redmond, Washington
+
+<br/>
+
 - **Name**: BSides Idaho Falls 2025
 - **Date**: September 2025
 - **Location**: Idaho Falls, Idaho
@@ -37,9 +43,11 @@ The talk presents lightweight controls that a small company can realistically ap
 
 ## Comments
 
-This talk describes specific governance controls suitable for a small or medium business coming to grips with AI, but if that were the only goal, it would be a much shorter talk. AI aside, it also gives a realistic view of how security programs evolve in small companies, and what they are able to do with the limited resources they have. Companies don’t publish their messy debates, partial fixes, and hard tradeoffs--but that’s where the most useful lessons often lie.
+This talk describes specific governance controls suitable for a small or medium business coming to grips with AI, but that is not the only goal. AI aside, it also gives a realistic view of how security programs evolve in small companies, and what they are able to do with the limited resources they have. Companies don’t publish their messy debates, partial fixes, and hard tradeoffs--but that’s where the most useful lessons often lie.
 
 For BSides Idaho Falls I expanded the talk into a workshop. I added a chapter in which MindPath deploys its first AI feature in Production for customers, and I added discussion points throughout the talk hoping to engage participants in evaluating the strengths and weaknesses of MindPath's choices along the way. This version covers more AI-specific risks and allows more scope for assessing the suitability of security controls for each risk.
+
+For BSides Seattle, I compressed the expanded story into 55 minutes. In general I dropped many details about specific risks, as well as some less signficant episodes, but tried to keep the overall sense of a struggle to adapt to new events and new information.
 
 ## Contact
 I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
@@ -69,16 +77,21 @@ Here are all the links to resources mentioned in the talk (and a couple of extra
 - **McKinsey**: [The state of AI: How organizations are rewiring to capture value](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?stcr=9499CD6B84314043914372147ADF3E31&cid=other-eml-ttn-mip-mck&hlkid=14d702306f4045138360d6895fce3a02&hctky=15042671&hdpid=6005f897-086c-407d-bf54-67140245a7c5)
 - **Nudge**: [AI Adoption Curve](https://www.nudgesecurity.com/post/the-ai-adoption-curve-and-what-it-means-for-your-business)
 - **SoftwareAG**: [Chasing Shadows](https://newscenter.softwareag.com/en/news-stories/thought-leaders-stories/shadow-ai.html)
-- **SoftwareAG**: [Half of all employees are Shadow AI users](https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html)
+[wayback](https://web.archive.org/web/20250326235020/https://newscenter.softwareag.com/en/news-stories/thought-leaders-stories/shadow-ai.html)
+- **SoftwareAG**: [Half of all employees are Shadow AI users](https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html) [wayback](https://web.archive.org/web/20241104103719/https://newscenter.softwareag.com/en/news-stories/press-releases/2024/1022-half-of-all-employees-use-shadow-ai.html)
+- **Upguard**: [Unmasking Shadow AI](https://www.upguard.com/blog/unmasking-shadow-ai)
 - **Verizon**: [State of Small Business Survey 2025](https://www.verizon.com/about/news/small-business-survey)
 
 ### AI Risk Frameworks & Standards
 - **CSA**: [SaaS Risk for Mid-Market Orgs](https://cloudsecurityalliance.org/artifacts/saas-ai-risk-for-mid-market-organizations-survey-report)
 - **FS-ISAC**: [Generative AI Risk Assessment Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf)
+- **National Cyber Security Centre (NCSC)**: [AI and Cyber Security: What You Need to Know](https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know)
 - **National Cyber Security Centre (NCSC)**: [Guidelines for Secure AI System Development](https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf)
 - **NIST**: [AI 600-1](https://www.nist.gov/itl/ai-risk-management-framework)
 - **NIST**: [AI RMF 100-1](https://airc.nist.gov/airmf-resources/airmf/)
+- **NIST**: [IR 8596: Framework Profile for Artificial Intelligence (Cyber AI Profile)](https://csrc.nist.gov/pubs/ir/8596/iprd)
 - **OWASP**: [2025 Top 10 Risk & Migitations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
+- **OWASP**: [AI Exchange: General Controls](https://owaspai.org/docs/1_general_controls/)
 
 ### Vendor & Contract Risks
 - **James Jewitt**: [From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI Ecosystem](https://arxiv.org/abs/2509.09873)
