@@ -12,12 +12,6 @@ This is a journey many companies are on now:<br/>
 
 The talk offers a grounded, scenario-based look at how AI governance begins—not with polished frameworks, but with real constraints, messy processes, and partial answers. It’s designed to spark insight, discussion, and shared learning about the practical realities of AI risk and oversight.
 
-I've given this talk three times and each version is different. The first was 90 minutes and ended
-with building an in-house RAG chatbot (HAL-E.) The second extended the story to include building
-AI features in production as well as opportunities to stop and discuss the pros and cons of MindPath's
-approach to each problem. The most recent version still includes AI in production but omits some episodes
-and many details in order to provide a more focused view of the overall struggle to manage AI risk.
-
 ## Intended Audience
 This talk is for people who are beginning to confront the practical realities of AI governance--especially in software development contexts where policies, practices, and responsibilities are still taking shape. 
 
