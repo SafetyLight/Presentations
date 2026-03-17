@@ -6,7 +6,7 @@ In 2023 one of the largest libraries in the world fell victim to a ransomware at
 
 If the analysis contains any surprises, it’s that there are no real surprises: the problems the British Library faced are common to many businesses, and the improvements the Library developed in response to the attack are reassuringly familiar best practices. We know how to reduce risk from ransomware.
 
-This 40-minute talk draws from the Library’s report to summarize the attack and explain how security controls such as network monitoring capabilities, multi-factor authentication, defined intrusion response processes, holistic risk management, and cyber-risk awareness at senior levels would have made a difference for the British Library-–and might in your company too.
+This 45-minute talk draws from the Library’s report to summarize the attack and explain how security controls such as network monitoring capabilities, multi-factor authentication, defined intrusion response processes, holistic risk management, and cyber-risk awareness at senior levels would have made a difference for the British Library-–and might in your company too.
 
 ## Intended Audience
 This talk is for a general audience interested in understanding how a specific ransomware attack unfolded at a major cultural institution.
@@ -20,6 +20,13 @@ This talk is for a general audience interested in understanding how a specific r
 ## Resources 
 - [Learning Lessons from the Cyber Attack](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf/) (Report from the British Library)
 - [Stop Ransomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide) (from CISA)
+
+## Events
+- **Name** BSidesSF 2026
+- **Date**: March 22, 2026
+- **Location**: San Francisco, California
+
+<br/>
 
 ## Events
 - **Name** BSidesPDX 2025
