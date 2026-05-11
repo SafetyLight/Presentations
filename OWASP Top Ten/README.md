@@ -2,39 +2,39 @@
 What Goes Wrong? Common Security Problems in Web Applications
 
 ## Description
-The presentations in this folder are different versions of a one-hour security awareness training for software development teams. Based on the OWASP Top Ten Web Application Security Risks, they highlight common security vulnerabilities and effective preventive measures. The training includes code examples to illustrate key concepts, ensuring participants leave with a foundational understanding of application security issues and solutions. 
+The presentations in this folder are different versions of a one-hour security awareness training for software development teams. Based on the OWASP Top Ten Web Application Security Risks, they highlight common security vulnerabilities and effective preventive measures. I
+generally tailor the talk to the audience by providing examples of defensive coding in a
+programming language they use.
 
-This session aligns with compliance frameworks such as SOC 2, ISO 27001, and NIST, which emphasize the importance of secure coding practices and security training as part of a robust Software Development Lifecycle (SDLC).
+Much of the talk proceeds by actively attacking OWASP's vulnerable-by-design Juice Shop 
+application. Using just the browser's developer tools I demonstrate why server-side code
+must always treat any communication from the browser as untrusted.
+
+Participants leave with a foundational understanding of application security issues and solutions. 
+
+This talk aligns with developer training expectations in SOC 2, ISO 27001, and NIST compliance programs.
+
 
 ## Intended Audience
-Technical software developers.
+Technical software developers. 
+
+I also made a version of the talk targeting a less technical non-programmer audience. That version is in a different folder under the title "Starting to Think Like a Hacker."
 
 ## Key Takeaways
 Participants will:
 - Gain familiarity with OWASP’s Top Ten Web Application Security Risks.
 - Understand common vulnerabilities and their impact.
-- Learn best practices for mitigating risks in their code and workflows.
+- Learn secure coding practices to prevent these vulnerabilities.
 
 ## Resources
-- [OWASP Top Ten Web Application Security Risks 2021](https://owasp.org/Top10/)
+- [OWASP Top Ten Web Application Security Risks 2025](https://owasp.org/Top10/)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) A deliberately vulnerable web application
 
 ## Events
-- **Name**: SafetyLight client training
-- **Date**: March 2024
-- **Location**: on line
-
-<br>
-
-- **Name**: Western Oregon University class of graduating Comp Sci seniors
-- **Date**: June 2025
-- **Location**: Monmouth, Oregon
-
-## Comments
-I sometimes adjust the examples in the talk for different audiences, resulting in different versions. I also made a version targeting a less technical non-programmer audience. That version is in a different folder under the title "Starting to Think Like a Hacker."
+I have given this talk to development teams at client organizations and to computer science students at Western Oregon University.
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
+If you'd like me to give this talk, email talks (at) safetylight (dot) dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
