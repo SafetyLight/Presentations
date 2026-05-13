@@ -24,6 +24,12 @@ This talk is for a general audience interested in understanding how a specific r
 - [Analyzing Rhysida Ransomware Intrusion](https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf) (from Fortinet)
 
 ## Events
+- **Name** ISACA Portland 2026
+- **Date**: May 13, 2026
+- **Location**: Wilsonville, Oregon
+
+<br/>
+
 - **Name** BSidesSF 2026
 - **Date**: March 22, 2026
 - **Location**: San Francisco, California
