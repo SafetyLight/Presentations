@@ -34,7 +34,7 @@ This presentation began as an internal developer training at the company where I
 The 2021 version of the OWASP Top Ten Web Application Security Risks dropped XXE as a distinct vulnerability. Instead, it was moved under the more general heading "Security Misconfiguration." XXE vulnerabilities are less common now that more parsers default to safer configurations, but they persist. I saw it on a pen test as recently as November 2024.
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).

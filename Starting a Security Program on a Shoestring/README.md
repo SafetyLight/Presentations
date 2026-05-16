@@ -43,7 +43,7 @@ The research on slide 8 is certainly out of date by now. Other, better open sour
 ZAP is in some ways not the ideal beginner's tool for the purposes imagined in this talk. I would have preferred to find something that's easier to run correctly the first time--perhaps even a command-line tool. So it would be worthwhile to take a look at what's out there now.
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev. 
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is copyrighted by Brian Myers and licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/). 

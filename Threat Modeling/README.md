@@ -16,7 +16,7 @@ Software development team members who are new to threat modeling.
 Originally designed as internal training, this presentation works best when followed by a practical threat-modeling session relevant to the audience's work.
 
 ## Contact
-I like to give talks. If you or someone you know might want me to do that, send email to talks (at) safetylight (dot) dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).

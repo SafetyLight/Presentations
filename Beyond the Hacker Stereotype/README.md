@@ -32,7 +32,7 @@ This talk is intended for people who are considering a new or different career i
 - [CyberSeek](cyberseek.org)
 
 ## Contact
-I like to give talks. I like giving this talk. If you or someone you know might want me to do that, send email to talks(at)safetylight(dot)dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).

@@ -79,8 +79,7 @@ Here are links to articles, surveys, and standards mentioned in the talk.
 - **Location**: Eugene, Oregon
 
 ## Contact
-I am available to speak. You can reach me by email: 
-talks(at)safetylight(dot)dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).

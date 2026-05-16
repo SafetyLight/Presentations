@@ -34,7 +34,7 @@ Participants will:
 I have given this talk to development teams at client organizations and to computer science students at Western Oregon University.
 
 ## Contact
-If you'd like me to give this talk, email talks (at) safetylight (dot) dev.
+I am available to speak. You can reach me by email: talks(at)safetylight(dot)dev.
 
 ## License
 This work is licensed under CC BY-NC 4.0. For full details, visit [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
