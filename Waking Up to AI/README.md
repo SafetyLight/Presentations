@@ -26,6 +26,7 @@ The talk presents lightweight controls that a small company can realistically ap
 - **Name**: BSides Seattle 2026
 - **Date**: February 2026
 - **Location**: Redmond, Washington
+- **Recording**: [YouTube](https://www.youtube.com/watch?v=zIvuepYysN0&list=PL7qpYrr4UPU9oAg7qhkJJdUJzQruutoSB&index=2)
 
 <br/>
 
