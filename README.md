@@ -22,8 +22,11 @@ My career began as a technical writer at Borland, followed by nearly 20 years in
 - **[Kidnapping a Library: How Ransomware Taught the British Library to Follow Well-Known Best Practices](Kidnapping%20a%20Library)**  
   A cautionary tale about how a ransomware attack crippled a major cultural institution and the measures taken to recover.
 
+- **[A Minimum Viable Security Program](https://github.com/SafetyLight/Presentations/tree/main/Minimum%20Viable%20Security%20Program)**  
+  Small businesses incur security risk from inception, not just at audit time. This talk identifies the essential controls you should implement immediately rather than scrambling to add them later.
+
 - **[Starting a Security Program on a Shoestring](Starting%20a%20Security%20Program%20on%20a%20Shoestring)**  
-Guidance for small software teams with minimal security expertise and no budget on building security knowledge and processes into their work.
+  Guidance for small software teams with minimal security expertise and no budget on building security knowledge and processes into their work.
 
 - **[Starting to Think Like a Hacker: Some Easy Ways to Break a Website](Starting%20to%20Think%20Like%20a%20Hacker/)**  
   A beginner-friendly introduction to what hackers actually do. Demonstrates exploiting a handful of common vulnerabilities using only a browser.
