@@ -33,6 +33,7 @@ This talk is for a general audience interested in understanding how a specific r
 - **Name** BSidesSF 2026
 - **Date**: March 22, 2026
 - **Location**: San Francisco, California
+- **Video**: [YouTube](https://www.youtube.com/watch?v=2B3NbFmOLrE&list=PLbZzXF2qC3RuROHvjQLHaHA9MbAsSL4pH&index=78)
 
 <br/>
 
