@@ -24,7 +24,7 @@ This presentation was conceived for an audience of quality assurance professiona
 - [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
 
 ## Events
-- **Name**: [Pacific Northwest Software Quality Conference](https://pnsqc.org/archives/starting-a-security-program-on-a-shoestring/) (PNSQC)
+- **Name**: [Pacific Northwest Software Quality Conference](https://pub-5e725122191f422092d6fb4c68bc26b3.r2.dev/archives/pnsqc2019.pdf) (PNSQC)
 - **Date**: October 15, 2019
 - **Location**: Portland, Oregon
 
